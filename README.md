@@ -1,3 +1,3 @@
 # Inventory-Console-Application
 
-Simple console application using C
+Simple console application using C/C++
